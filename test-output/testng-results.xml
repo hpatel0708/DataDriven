@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7237" started-at="2021-04-26T17:24:11Z" finished-at="2021-04-26T17:24:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7237" started-at="2021-04-26T17:24:11Z" finished-at="2021-04-26T17:24:18Z">
+      <class name="test.FindReservationTest">
+        <test-method status="PASS" signature="userShouldBeAbleToFindReservation()[pri:0, instance:test.FindReservationTest@16ec5519]" name="userShouldBeAbleToFindReservation" duration-ms="7218" started-at="2021-04-26T17:24:11Z" finished-at="2021-04-26T17:24:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToFindReservation -->
+      </class> <!-- test.FindReservationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
